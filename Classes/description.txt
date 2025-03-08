@@ -1,0 +1,37 @@
+They told me I could be anything... So I became everything!
+
+The art of disguise is not easy to master, but some goats like you are exceptional and can take the form of any object they find!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Morph Goat: You can take the form of the object you are licking.
+
+[b]COMMANDS[/b]
+- [b]Not Morphed + [Y]:[/b] Morph into the object you are currently licking.
+- [b]Morphed + [Y]:[/b] Unmorph (Revert to your original form).
+
+[b]GAMEPAD COMMANDS[/b]
+- [b]Not Morphed + [LB]:[/b] Morph into the object you are currently licking.
+- [b]Morphed + [LB]:[/b] Unmorph (Revert to your original form).
+
+[b]CHARACTERISTICS[/b]
+- You can't morph into humans or other creatures.
+- You can't morph into moving objects.
+- When morphed, you can still attack.
+- If you go ragdoll when morphed you will be unmorphed.
+- If the object you morhped into is broken (like a vase), you will be unmorphed.
+
+[b]EASTER EGGS[/b]
+- [spoiler]When morphed into an exploding item, use the attack button to make it explode.[/spoiler]
+- [spoiler]If you morph into an object when sprinting, the object movement will be faster and glide a bit.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- The objects you morphed into can pass through other things without colliding: this is normal.
+- Air strafe is not working properly when morphed (can't fix).
+- If you lick an object when morphed, the object is not attached to your tongue and when you unmorph your tongue lick an invisible point in the air. Lick any object to fix it.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Since I published the Ghost Goat mod, a lot of people suggested to make it possible to control random objects too. As I explained to them it was not possible using the method I use for the Ghost Goat, anyway I kept this idea in mind and ended up with another solution that will work only for objects (and not for living creatures) and here it is ^^
+So this mod don't really change the form of your goat, it simply attach the object you are licking to your body and makes your body invisible. I just had to add some location and rotation corrections to make the controlled object oriented correctly :)
+[/quote]
